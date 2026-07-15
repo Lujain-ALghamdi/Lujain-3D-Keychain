@@ -6,8 +6,8 @@ This project is a custom flower-shaped keychain designed in Onshape.
 The design was inspired by a simple floral keychain reference and was recreated as a 3D-printable model with my own modifications.
 
 The keychain features a capital letter **L** in the center, representing my name, **Lujain**. A circular hole was added to one side of the flower so the model can be attached to a keyring.
-<img width="2880" height="1920" alt="لقطة شاشة 2026-07-15 034340" src="https://github.com/user-attachments/assets/544a128e-7f6c-45c6-a0dd-3efcd0fd4ebc" />
-<img width="2880" height="1920" alt="لقطة شاشة 2026-07-15 034416" src="https://github.com/user-attachments/assets/dfbad000-1a0b-4d36-85d6-cc09c0e94e2a" />
+<img width="2880" height="1819" alt="لقطة شاشة 2026-07-15 034340" src="https://github.com/user-attachments/assets/162f6bc7-012a-4bba-9d81-67088c14a6de" />
+<img width="2880" height="1819" alt="لقطة شاشة 2026-07-15 034416" src="https://github.com/user-attachments/assets/88f17844-95d8-4064-992c-bce143ad3e04" />
 
 ## Design Features
 
@@ -43,9 +43,7 @@ I used the reference image as inspiration and created my own version in Onshape.
 ## Visit the Design
 
 You can view the complete Onshape design using the link below:
-
-[View the design in Onshape]([PASTE_YOUR_ONSHAPE_LINK_HERE](https://cad.onshape.com/documents/ba4693feff5dcc9f8ba39fd6/w/a201c578f2910e367dc51d8f/e/8918d21571f3bb3576a732a3?renderMode=0&uiState=6a56dc4f0eecb2649b6d3e39))
+https://cad.onshape.com/documents/ba4693feff5dcc9f8ba39fd6/w/a201c578f2910e367dc51d8f/e/8918d21571f3bb3576a732a3?renderMode=0&uiState=6a56dc4f0eecb2649b6d3e39
 
 ## Author
-
 Designed by **Lujain**
